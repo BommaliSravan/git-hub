@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "NSWFxah7c3IWKEd9u19Qfw/WijDwuX0kyPpAmCKvBakmvnGa8C7GRgwst8OmlcJfqAlFk1vSBsX0SuJMsCIzug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mindc1july50\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\HotelManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mindc1july50\\.nuget\\packages\\excelmapper\\5.2.415\\excelmapper.5.2.415.nupkg.sha512",
+    "C:\\Users\\mindc1july50\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mindc1july50\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\mindc1july50\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\mindc1july50\\.nuget\\packages\\npoi\\2.5.6\\npoi.2.5.6.nupkg.sha512",
+    "C:\\Users\\mindc1july50\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\mindc1july50\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
+    "C:\\Users\\mindc1july50\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\mindc1july50\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\mindc1july50\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\mindc1july50\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\mindc1july50\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\mindc1july50\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\mindc1july50\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\mindc1july50\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\mindc1july50\\.nuget\\packages\\system.text.json\\6.0.5\\system.text.json.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

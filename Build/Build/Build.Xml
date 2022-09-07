@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Start" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+<PropertyGroup>
+<SourceFolder>..\HotelManagementSystem</SourceFolder>
+</PropertyGroup>
+<Target Name="Start">
+<CallTarget Targets="Build"></CallTarget>
+</Target>
+<Target Name="Build">
+<MSBuild
+Projects="$(SourceFolder)\HotelManagementSystem.sln"
+Properties="Configuration=Release"
+Targets="Clean;Build"
+ContinueOnError="false"
+StopOnFirstFailure="true"/>
+</Target>
+</Project>
